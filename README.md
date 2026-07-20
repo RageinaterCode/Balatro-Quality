@@ -1,7 +1,7 @@
 # Balatro-Quality
 <img width="882" height="272" alt="thumbnail" src="https://github.com/user-attachments/assets/7b423c13-be9b-4ca8-ad35-56d0a3a94c88" />
 
-This mod aims to add 4 different levels of Quality to the Vanilla Balatro Jokers. It is heavily inspired by the Risk Of Rain 2 Quality mod and is in ongoing development, so please expect things to be broken as I figure things out!
+This mod aims to add 4 different levels of Quality to the Vanilla Balatro Jokers. It is heavily inspired by the Risk Of Rain 2 Quality mod (https://github.com/Goorakh/RoR2_ItemQualities) and is in ongoing development, so please expect things to be broken as I figure things out!
 
 Please note that because not all Jokers are done, the Jokers like baron/mime ect... are WAY MORE COMMON than usual Vanilla Balatro because there is literally like 5 of them now. It'll be like this until all Jokers are fully complete so I'm sorry!
 

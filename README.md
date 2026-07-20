@@ -22,4 +22,4 @@ Again, this is my first ever game mod and is VERY much a work in progress! If yo
 This project was made using Joker Forge. Go check it out! https://jokerforge.jaydchw.com/
 
 # How To Install
-Download the Zip below and simply place the Quality folder inside your Balatro Mods folder! (Usually located at C:\Users\"YourUser"\AppData\Roaming\Balatro\Mods)
+Download the latest quality.zip from the releases section and simply place the quality folder inside your Balatro Mods folder! (Usually located at C:\Users\"YourUser"\AppData\Roaming\Balatro\Mods)

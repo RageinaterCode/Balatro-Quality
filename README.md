@@ -18,3 +18,6 @@ Quality Tiers:
 
 Again, this is my first ever game mod and is VERY much a work in progress! If you see anything wrong with the mod please give me time to try and fix it :3 Anyways, I hope you enjoy my mod!! I aim to make a Quality version of every single Joker (or at least most of them), which may take a while :p 
 This project was made using Joker Forge. Go check it out! https://jokerforge.jaydchw.com/
+
+# How To Install
+Download the Zip below and simply place the Quality folder inside your Balatro Mods folder! (Usually located at C:\Users\"YourUser"\AppData\Roaming\Balatro\Mods)

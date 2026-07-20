@@ -6,7 +6,7 @@ This mod aims to add 4 different levels of Quality to the Vanilla Balatro Jokers
 Please note that because not all Jokers are done, the Jokers like baron/mime ect... are WAY MORE COMMON than usual Vanilla Balatro because there is literally like 5 of them now. It'll be like this until all Jokers are fully complete so I'm sorry!
 
 New Custom Deck:
-Voilet Deck [+1 Discard | x3 Base Blind Scaling | Start with a Refined Quality Joker]
+1. Voilet Deck [+1 Discard | x3 Base Blind Scaling | Start with a Refined Quality Joker]
 It's planned for Quality Jokers to only spawn in the shop on Voilet Deck. Other decks will have rare chances for Quality Booster Packs in the future.
 
 Quality Tiers:
